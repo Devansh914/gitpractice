@@ -1,9 +1,20 @@
+<<<<<<< HEAD
 phone
 <<<<<<< HEAD
 touchscreen
 
+
+
+
+
+
 gorilla glass hai
 =======
+=======
+
+
+
+>>>>>>> internet
 
 scratchless
 battery

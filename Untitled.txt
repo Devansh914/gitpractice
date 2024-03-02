@@ -1,4 +1,6 @@
-
+phone
+<<<<<<< HEAD
+touchscreen
 
 gorilla glass hai
 =======
